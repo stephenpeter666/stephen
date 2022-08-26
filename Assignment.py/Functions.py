@@ -12,3 +12,4 @@ def prime(num):
 
 number = int(input("Enter number: "))
 prime(number)
+print("Done")
