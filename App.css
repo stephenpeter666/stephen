@@ -1,4 +1,7 @@
-.p {
-    color:  black;
-    padding: 10px;
+div{
+    background-color: brown;
+}
+
+#firstdiv{
+    background-color: aqua;
 }
